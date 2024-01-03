@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=3500&color=00D7FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Ashkan+.+.+.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=3500&color=00D7FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Ashkan+.+.+.)
+---
+A Passionate Junior Programmer on a Journey of Continuous Learning. <br />
+Currently Immersing Myself in the World of `JavaScript` and `Web Development`.
+---
+
 <!--
 **Ashkan-zrb/ashkan-zrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
