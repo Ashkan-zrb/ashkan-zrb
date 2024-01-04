@@ -4,16 +4,24 @@ A Passionate Programmer on a Journey of Continuous Learning. <br />
 Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <br />
 ☕ Always Up for Coffee if You're Around!!! <br />
 
----
+## Skills
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/HTML5.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/CSS3.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/React.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/HTML5.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/CSS3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/React.svg" width="36" height="36" alt="React" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Git.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
----
-###Contact Me
+## Contact Me
+
+<p align="left">
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/97a139226f2e784287b80014d3494c76d328f734/Gmail.svg" width="32" height="32" alt="Gmail"/></a> &nbsp;
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/97a139226f2e784287b80014d3494c76d328f734/Instagram.svg" width="32" height="32" alt="Instagram"/></a> &nbsp;
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/398dc86d588de9abe143e15add990d5522aca8a4/Telegram.svg" width="32" height="32" alt="Telegram"/></a> &nbsp;
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/97a139226f2e784287b80014d3494c76d328f734/Linkedin.svg" width="32" height="32" alt="Linkedin"/></a>
+</p>
+
+
