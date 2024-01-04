@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=2500&pause=3500&color=00D7FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Ashkan+.+.+.)
 ---
-A Passionate Junior Programmer on a Journey of Continuous Learning. <br />
-Currently Immersing Myself in the World of `JavaScript` and `Web Development`.
+A Passionate Programmer on a Journey of Continuous Learning. <br />
+Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <br />
+☕ Always Up for Coffee if You're Around!!! <br />
+
 ---
 
 <!--
