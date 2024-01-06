@@ -8,7 +8,7 @@ Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/HTML5.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/CSS3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/CSS3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/React.svg" width="36" height="36" alt="React" /></a> &nbsp;
