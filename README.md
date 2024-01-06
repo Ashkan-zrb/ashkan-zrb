@@ -16,7 +16,7 @@ Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <
   <a href="https://devdocs.io/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8f1bfb30fd0675584329c615f74f0c60e7cad78f/C++.svg" width="36" height="36" alt="C++" /></a>
 </p>
 
-## Contact Me
+## Social Media
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ashkan-zarrabi-1459682a8" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8722ce68a5440f68894c9e30eeac9d17ea018bee/Linkedin.svg" width="32" height="32" alt="Linkedin"/></a> &nbsp;
