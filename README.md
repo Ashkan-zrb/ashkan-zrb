@@ -20,7 +20,7 @@ Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <
 ## Social Media
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ashkan-zarrabi-1459682a8" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8722ce68a5440f68894c9e30eeac9d17ea018bee/Linkedin.svg" width="32" height="32" alt="Linkedin"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/Ashkan-zrb" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8722ce68a5440f68894c9e30eeac9d17ea018bee/Linkedin.svg" width="32" height="32" alt="Linkedin"/></a> &nbsp;
     <a href="https://www.instagram.com/Ashkan_zrb/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/97a139226f2e784287b80014d3494c76d328f734/Instagram.svg" width="32" height="32" alt="Instagram"/></a> &nbsp;
     <a href="https://t.me/Ashkan_zrb" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/398dc86d588de9abe143e15add990d5522aca8a4/Telegram.svg" width="32" height="32" alt="Telegram"/></a> &nbsp;
     <a href="https://facebook.com/ashkanzrbi" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8722ce68a5440f68894c9e30eeac9d17ea018bee/Facebook.svg" width="32" height="32" alt="Facebook"/></a> &nbsp;
