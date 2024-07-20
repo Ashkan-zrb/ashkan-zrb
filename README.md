@@ -12,8 +12,9 @@ Currently Immersing Myself in the World of `JavaScript` and `Web Development`. <
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/CSS3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/JavaScript.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/fd4533b22d831c098b96241f529892c0984ea27e/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/React.svg" width="36" height="36" alt="React" /></a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/d4cf8bce6a5ed4dab2c9fc329281ae71f326bd4d/Redux.svg" width="36" height="36" alt="Redux" /></a> &nbsp;
+  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/d4cf8bce6a5ed4dab2c9fc329281ae71f326bd4d/Redux.svg" width="36" height="36" alt="Redux" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/67ab40c704c817f109eef42c733e4c56c143ac00/Git.svg" width="36" height="36" alt="Git" /></a> &nbsp;
   <a href="https://devdocs.io/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/Ashkan-zrb/ashkan-zrb/8f1bfb30fd0675584329c615f74f0c60e7cad78f/C++.svg" width="36" height="36" alt="C++" /></a>
 </p>
